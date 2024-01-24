@@ -1,9 +1,9 @@
 # Arrays 101 Table of Contents 
-## [01 What is an Array](https://github.com/mrcodymichaelsmith/Cody-Leetcode/tree/main/Arrays%20101/01%20What%20is%20an%20Array) (Currently working on)
-- Max Consecutive Ones (DONE)
-- Find Numbers with Even Number of Digits (DONE)
-- Squares of a Sorted Array (1 of 5)
-## 02 Inserting Items Into an Array
+## [01 What is an Array](https://github.com/mrcodymichaelsmith/Cody-Leetcode/tree/main/Arrays%20101/01%20What%20is%20an%20Array) 
+- Max Consecutive Ones
+- Find Numbers with Even Number of Digits
+- Squares of a Sorted Array
+## 02 Inserting Items Into an Array (Currently working on)
 - Duplicate Zeros
 - Merge Sorted Array
 ## 03 Deleting Items From an Array
