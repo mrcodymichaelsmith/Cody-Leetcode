@@ -15,8 +15,3 @@ class Solution {
         return [math]::Max($maxCount, $count)
     }
 }
-
-$solution = [Solution]::new()
-$nums = 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1
-$result = $solution.findMaxConsecutiveOnes($nums)
-Write-Output $result

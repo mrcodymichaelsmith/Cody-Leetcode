@@ -13,4 +13,3 @@ findNumbers() {
 
     echo "$result"
 }
-
