@@ -12,13 +12,10 @@ public class Solution {
             while (tempNum > 0) {
                 tempNum /= 10;
                 count++;
-            }
-
-            if (count % 2 == 0) {
+            } if (count % 2 == 0) {
                 result++;
             }
         }
-
         return result;
     }
 }
