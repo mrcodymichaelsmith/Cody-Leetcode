@@ -1,4 +1,4 @@
-"""
+<#
 Given an array nums of integers, return how many of them contain an even number of digits.
 
 Example 1:
@@ -27,41 +27,5 @@ How to compute the number of digits of a number ?
 
 Hint #2
 Divide the number by 10 again and again to get the number of digits.
+#>
 
-"""
-
-"""
-:type nums: List[int]
-:rtype: int
-"""
-
-
-"""
-This attempt was wrong because I mkae the integer a string.
-I can find the same anwser by dividing by 10.
-
-class Solution(object):
-    def findNumbers(self, nums):
-        even_digits = 0 
-        for num in nums:
-            if len(str(num)) % 2 == 0 :
-                even_digits += 1 
-        return even_digits 
-
-
-
-"""
-
-class Solution:
-    def findNumbers(self, nums):
-        result = 0
-        for num in nums:
-            count = 0
-            while num > 0:
-                num = num // 10
-                count += 1
-                
-            if count % 2 == 0:
-                result += 1
-            
-        return result
