@@ -2,7 +2,7 @@
 ## [01 What is an Array](https://github.com/mrcodymichaelsmith/Cody-Leetcode/tree/main/Arrays%20101/01%20What%20is%20an%20Array) (Currently working on)
 - Max Consecutive Ones (DONE)
 - Find Numbers with Even Number of Digits (DONE)
-- Squares of a Sorted Array (Pending)
+- Squares of a Sorted Array (1 of 5)
 ## 02 Inserting Items Into an Array
 - Duplicate Zeros
 - Merge Sorted Array
