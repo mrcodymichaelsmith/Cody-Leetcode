@@ -5,5 +5,6 @@ I am trying to better my coding skills. This repo is to save my solutions to lee
 - PowerShell
 - Javascript
 - Python 3
+- Bash
 - C#
 
