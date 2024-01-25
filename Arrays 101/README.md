@@ -3,8 +3,8 @@
 - Max Consecutive Ones
 - Find Numbers with Even Number of Digits
 - Squares of a Sorted Array
-## 02 Inserting Items Into an Array (Currently working on)
-- Duplicate Zeros
+## [02 Inserting Items Into an Array](https://github.com/mrcodymichaelsmith/Cody-Leetcode/tree/main/Arrays%20101/02%20Inserting%20Items%20into%20an%20Array)(Currently working on)
+- Duplicate Zeros (2 of 5 done. Currently working on the C# one.)
 - Merge Sorted Array
 ## 03 Deleting Items From an Array
 - Remove Element
